@@ -1,0 +1,23 @@
+{
+  "name": "SSSGAME",
+  "short_name": "SSSGAME",
+  "description": "A Banca de Apostas Mais Confiável e Rentável",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "https://cdn.xb55.net/304/2023-02/20230228051039138587.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.xb55.net/304/2023-02/20230228051039138587.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
